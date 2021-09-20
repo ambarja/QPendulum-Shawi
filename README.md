@@ -13,9 +13,9 @@ https://raw.githubusercontent.com/ambarja/QShawi/main/colorsramp/ShawiColors.xml
 
 ### __Final maps__
 
-Shawi communities ([download🔽](https://github.com/ambarja/QShawi/raw/main/maps/Shawi_communities.zip))| Indigenous people ([download🔽](https://github.com/ambarja/QShawi/raw/main/maps/Indigenous_people.zip))
+Shawi communities ([download 🔽](https://github.com/ambarja/QShawi/raw/main/maps/Shawi_communities.zip))| Indigenous people ([download 🔽](https://github.com/ambarja/QShawi/raw/main/maps/Indigenous_people.zip))
 ---|---
 ![map1](maps/Shawi_communities.png)|![map2](maps/Indigenous_people.png)
 
 ### Download repository
-- [download-QShawi🔽](https://github.com/ambarja/QShawi/archive/refs/heads/main.zip)
+- [download-QShawi 🔽](https://github.com/ambarja/QShawi/archive/refs/heads/main.zip)
