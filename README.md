@@ -17,3 +17,5 @@ Shawi communities ([download🔽](https://github.com/ambarja/QShawi/raw/main/map
 ---|---
 ![map1](maps/Shawi_communities.png)|![map2](maps/Indigenous_people.png)
 
+### Download repository
+- [download-QShawi🔽](https://github.com/ambarja/QShawi/archive/refs/heads/main.zip)
