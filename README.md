@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/ambarja/QShawi/main/colorsramp/ShawiColors.xml
 
 ### __Final maps__
 
-Shawo communities | Indigenous people
+Shawi communities ([download🔽](https://github.com/ambarja/QShawi/raw/main/maps/Shawi_communities.png))| Indigenous people ([download🔽](https://github.com/ambarja/QShawi/raw/main/maps/Indigenous_people.png))
 ---|---
 ![map1](maps/Shawi_communities.png)|![map2](maps/Indigenous_people.png)
 
