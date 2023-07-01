@@ -3,7 +3,7 @@
 
 Software | Version |
 -----|----------
-QGIS | 3.20
+QGIS | 3.20 Bonn
 
 ### __New colors ramp for QGIS__ 👇
 ```
